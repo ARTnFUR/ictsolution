@@ -238,4 +238,7 @@ body {
     .container-fluid {
       padding: 25px 40px;
     }
+    img {
+      width: 70%;
+    }
   }
